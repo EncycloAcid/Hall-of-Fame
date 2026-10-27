@@ -1,0 +1,425 @@
+Lakeshore Lions (LAK) at Riverton State Ravens (RIV)
+Rules: NCAA Men | Seed: 2026
+
+TEAM    1stH  2ndH  FINAL
+LAK       42    44     86
+RIV       48    39     87
+
+LAKESHORE LIONS
+PLAYER                   POS   MIN  PTS     FG    3PT     FT OREB DREB  REB  AST  STL  BLK   TO  PF
+------------------------------------------------------------------------------------------------------------
+* Noah Price             PG  33:48   26   8-14   6-12    4-5    0    4    4    6    0    1    6   4
+* Jamal Okafor           SF  26:55    9    3-5    1-3    2-5    1    3    4    1    0    0    2   4
+* Elijah Hayes           PF  33:50    6    1-8    0-2    4-6    2    5    7    3    1    1    2   4
+* Trey Boyd              C   32:02   18    6-8    2-2    4-4    1    7    8    1    1    0    0   4
+* Brandon Lindqvist      SG  33:06   23   8-10    4-5    3-4    0    1    1    1    1    0    2   2
+  Caleb Hamilton         PG  10:57    0    0-1    0-1    0-0    0    0    0    2    0    0    1   0
+  Xavier Graham          SG   8:12    2    1-1    0-0    0-0    0    0    0    0    0    0    2   1
+  Noah Brooks            SF   0:00    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+  Marcus Holloway        PF  21:10    2    1-6    0-1    0-0    1    4    5    1    0    0    0   1
+  Andre Dixon            C    0:00    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+  Andre Lindqvist        SG   0:00    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+  Luka Hamilton          SF   0:00    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+  Reggie Hamilton        C    0:00    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+------------------------------------------------------------------------------------------------------------
+TOTALS                         200   86  28-53  13-26  17-24    5   24   29   15    3    2   15  20
+FG 52.8% | 3PT 50.0% | FT 70.8% | Est. possessions 74.4
+
+RIVERTON STATE RAVENS
+PLAYER                   POS   MIN  PTS     FG    3PT     FT OREB DREB  REB  AST  STL  BLK   TO  PF
+------------------------------------------------------------------------------------------------------------
+* Tyler Okafor           PG  32:34   13   3-10    2-7    5-9    1    2    3    7    2    0    1   4
+* Marcus Hayes           SG  26:24    7    2-9    1-4    2-2    1    0    1    1    1    0    1   3
+* Devin Reed             PF  30:05   16    7-8    1-2    1-1    2    6    8    1    3    3    1   4
+* Cameron Sanders        C   28:55    6    3-4    0-0    0-0    0    5    5    2    0    1    0   5
+* Isaiah Brooks          SF  30:34   21   8-11    1-2    4-4    0    8    8    2    1    1    5   2
+  Tyler Ward             PG  23:23    9    3-6    1-4    2-2    0    0    0    5    2    0    0   1
+  Andre Porter           SG  17:46   12    4-4    3-3    1-2    0    2    2    0    0    1    3   2
+  Quentin Porter         SF   4:21    3    1-2    1-1    0-0    0    1    1    3    0    0    0   0
+  Trey Foster            PF   0:24    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+  Devin Hayes            C    5:34    0    0-2    0-1    0-0    0    0    0    0    1    0    0   1
+  Jordan Foster          SG   0:00    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+  Cameron Patterson      SF   0:00    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+  Luka Porter            C    0:00    0    0-0    0-0    0-0    0    0    0    0    0    0    0   0
+------------------------------------------------------------------------------------------------------------
+TOTALS                         200   87  31-56  10-24  15-20    4   24   28   21   10    6   11  22
+FG 55.4% | 3PT 41.7% | FT 75.0% | Est. possessions 72.5
+
+
+PLAY-BY-PLAY
+====================================================================================================
+1st Half  20:00 | LAK 0-0 RIV      |          Start of 1st Half
+1st Half  20:00 | LAK 0-0 RIV      | LAK      T. Boyd wins the jump ball for Lakeshore Lions
+1st Half  19:59 | LAK 0-0 RIV      | RIV      I. Brooks commits a personal foul on N. Price (1 PF)
+1st Half  19:43 | LAK 3-0 RIV      | LAK  +3  J. Okafor drills a three-pointer
+1st Half  19:35 | LAK 3-0 RIV      | LAK      J. Okafor commits a personal foul on T. Okafor (1 PF)
+1st Half  19:20 | LAK 3-2 RIV      | RIV  +2  I. Brooks hits an elbow jumper
+1st Half  19:04 | LAK 5-2 RIV      | LAK  +2  B. Lindqvist knocks down a mid-range jumper
+1st Half  19:04 | LAK 5-2 RIV      | RIV      M. Hayes commits a shooting foul on B. Lindqvist (1 PF)
+1st Half  19:04 | LAK 5-2 RIV      | LAK      B. Lindqvist misses the and-one free throw
+1st Half  19:04 | LAK 5-2 RIV      | LAK      J. Okafor grabs the offensive rebound
+1st Half  19:01 | LAK 5-2 RIV      | LAK      D. Reed steals the ball from N. Price
+1st Half  18:48 | LAK 5-2 RIV      | LAK      T. Boyd commits a personal foul on M. Hayes (1 PF)
+1st Half  18:39 | LAK 5-4 RIV      | RIV  +2  D. Reed scores in the paint (assist: T. Okafor)
+1st Half  18:21 | LAK 8-4 RIV      | LAK  +3  N. Price drills a three-pointer (assist: E. Hayes)
+1st Half  18:10 | LAK 8-4 RIV      | LAK      J. Okafor commits a personal foul on D. Reed (2 PF)
+1st Half  18:10 | LAK 8-4 RIV      | LAK      LAK substitution: M. Holloway in for J. Okafor
+1st Half  17:59 | LAK 8-6 RIV      | RIV  +2  I. Brooks rises for an alley-oop dunk
+1st Half  17:51 | LAK 11-6 RIV     | LAK  +3  B. Lindqvist hits a three from the wing (assist: M. Holloway)
+1st Half  17:30 | LAK 11-9 RIV     | RIV  +3  I. Brooks hits a three from the wing (assist: T. Okafor)
+1st Half  17:12 | LAK 14-9 RIV     | LAK  +3  N. Price hits a three from the wing (assist: E. Hayes)
+1st Half  16:59 | LAK 14-9 RIV     | RIV      T. Boyd steals the ball from I. Brooks
+1st Half  16:52 | LAK 14-9 RIV     | RIV      T. Okafor commits a personal foul on N. Price (1 PF)
+1st Half  16:37 | LAK 14-9 RIV     | LAK      B. Lindqvist misses a three-pointer
+1st Half  16:37 | LAK 14-9 RIV     | RIV      I. Brooks pulls down the defensive rebound
+1st Half  16:26 | LAK 14-9 RIV     | RIV      M. Hayes throws the ball away
+1st Half  16:19 | LAK 14-9 RIV     | RIV      M. Hayes commits a personal foul on B. Lindqvist (2 PF)
+1st Half  16:19 | LAK 14-9 RIV     | RIV      RIV substitution: T. Ward in for M. Hayes
+1st Half  16:11 | LAK 14-9 RIV     | LAK      N. Price throws the ball away
+1st Half  15:48 | LAK 14-12 RIV    | RIV  +3  T. Ward hits a three from the wing (assist: I. Brooks)
+1st Half  15:48 | LAK 14-12 RIV    |          Official timeout
+1st Half  15:36 | LAK 14-12 RIV    | LAK      M. Holloway has his layup blocked by D. Reed
+1st Half  15:36 | LAK 14-12 RIV    | LAK      E. Hayes grabs the offensive rebound
+1st Half  15:33 | LAK 14-12 RIV    | LAK      T. Okafor steals the ball from N. Price
+1st Half  15:14 | LAK 14-12 RIV    | RIV      D. Reed misses a three from the corner
+1st Half  15:14 | LAK 14-12 RIV    | LAK      E. Hayes pulls down the defensive rebound
+1st Half  14:56 | LAK 16-12 RIV    | LAK  +2  T. Boyd makes a driving layup (assist: N. Price)
+1st Half  14:46 | LAK 16-14 RIV    | RIV  +2  I. Brooks throws down a dunk
+1st Half  14:22 | LAK 16-14 RIV    | LAK      E. Hayes misses a three from the corner
+1st Half  14:22 | LAK 16-14 RIV    | RIV      I. Brooks pulls down the defensive rebound
+1st Half  14:06 | LAK 16-14 RIV    | RIV      T. Okafor misses a deep three
+1st Half  14:06 | LAK 16-14 RIV    | RIV      D. Reed grabs the offensive rebound
+1st Half  13:55 | LAK 16-16 RIV    | RIV  +2  D. Reed puts back the offensive board
+1st Half  13:41 | LAK 18-16 RIV    | LAK  +2  T. Boyd banks in a short hook
+1st Half  13:34 | LAK 18-16 RIV    | RIV      I. Brooks throws the ball away
+1st Half  13:34 | LAK 18-16 RIV    | RIV      RIV substitution: A. Porter in for I. Brooks
+1st Half  13:34 | LAK 18-16 RIV    | LAK      LAK substitution: C. Hamilton in for M. Holloway
+1st Half  13:24 | LAK 18-16 RIV    | LAK      C. Hamilton is called for traveling
+1st Half  13:24 | LAK 18-16 RIV    | RIV      RIV substitution: D. Hayes in for D. Reed
+1st Half  12:56 | LAK 18-19 RIV    | RIV  +3  T. Okafor knocks down a three from the top of the key (assist: T. Ward)
+1st Half  12:46 | LAK 20-19 RIV    | LAK  +2  N. Price finishes with a two-handed slam
+1st Half  12:24 | LAK 20-21 RIV    | RIV  +2  C. Sanders finishes at the rim
+1st Half  12:18 | LAK 20-21 RIV    | RIV      D. Hayes commits a personal foul on N. Price (1 PF)
+1st Half  12:18 | LAK 20-21 RIV    | RIV      RIV substitution: I. Brooks in for C. Sanders
+1st Half  12:18 | LAK 20-21 RIV    | RIV      RIV substitution: D. Reed in for T. Ward
+1st Half  12:02 | LAK 22-21 RIV    | LAK  +2  B. Lindqvist hits an elbow jumper (assist: T. Boyd)
+1st Half  11:46 | LAK 22-21 RIV    | RIV      I. Brooks clanks a mid-range jumper
+1st Half  11:46 | LAK 22-21 RIV    | LAK      E. Hayes pulls down the defensive rebound
+1st Half  11:46 | LAK 22-21 RIV    |          Official timeout
+1st Half  11:46 | LAK 22-21 RIV    | LAK      LAK substitution: M. Holloway in for C. Hamilton
+1st Half  11:33 | LAK 22-21 RIV    | LAK      E. Hayes has his layup blocked by D. Reed
+1st Half  11:33 | LAK 22-21 RIV    | RIV      D. Reed pulls down the defensive rebound
+1st Half  11:24 | LAK 22-24 RIV    | RIV  +3  D. Reed drills a three-pointer (assist: I. Brooks)
+1st Half  11:14 | LAK 22-24 RIV    | LAK      D. Hayes steals the ball from B. Lindqvist
+1st Half  10:52 | LAK 22-26 RIV    | RIV  +2  D. Reed finishes at the rim (assist: T. Okafor)
+1st Half  10:52 | LAK 22-26 RIV    | LAK      E. Hayes commits a shooting foul on D. Reed (1 PF)
+1st Half  10:52 | LAK 22-26 RIV    | RIV      RIV substitution: T. Ward in for T. Okafor
+1st Half  10:52 | LAK 22-26 RIV    | RIV      RIV substitution: C. Sanders in for D. Hayes
+1st Half  10:52 | LAK 22-26 RIV    | LAK      LAK substitution: C. Hamilton in for T. Boyd
+1st Half  10:52 | LAK 22-26 RIV    | LAK      LAK substitution: X. Graham in for B. Lindqvist
+1st Half  10:52 | LAK 22-27 RIV    | RIV  +1  D. Reed makes the and-one free throw
+1st Half  10:40 | LAK 22-27 RIV    | RIV      D. Reed commits a shooting foul on E. Hayes (1 PF)
+1st Half  10:40 | LAK 23-27 RIV    | LAK  +1  E. Hayes makes free throw 1 of 2
+1st Half  10:40 | LAK 24-27 RIV    | LAK  +1  E. Hayes makes free throw 2 of 2
+1st Half  10:29 | LAK 24-27 RIV    | RIV      A. Porter commits a offensive foul (1 PF)
+1st Half  10:29 | LAK 24-27 RIV    | RIV      Turnover by A. Porter (offensive foul)
+1st Half  10:09 | LAK 24-27 RIV    | RIV      D. Reed commits a shooting foul on E. Hayes (2 PF)
+1st Half  10:09 | LAK 24-27 RIV    | RIV      RIV substitution: Q. Porter in for D. Reed
+1st Half  10:09 | LAK 24-27 RIV    | LAK      E. Hayes misses free throw 1 of 2
+1st Half  10:09 | LAK 24-27 RIV    | LAK      E. Hayes misses free throw 2 of 2
+1st Half  10:09 | LAK 24-27 RIV    | RIV      Q. Porter pulls down the defensive rebound
+1st Half  10:00 | LAK 24-27 RIV    | RIV      E. Hayes steals the ball from I. Brooks
+1st Half   9:39 | LAK 24-27 RIV    | LAK      N. Price misses a three from the corner
+1st Half   9:39 | LAK 24-27 RIV    | RIV      I. Brooks pulls down the defensive rebound
+1st Half   9:25 | LAK 24-30 RIV    | RIV  +3  Q. Porter hits a three from the wing (assist: C. Sanders)
+1st Half   8:59 | LAK 27-30 RIV    | LAK  +3  N. Price buries a corner three
+1st Half   8:51 | LAK 27-30 RIV    | RIV      Q. Porter misses a layup
+1st Half   8:51 | LAK 27-30 RIV    | LAK      M. Holloway pulls down the defensive rebound
+1st Half   8:37 | LAK 27-30 RIV    | LAK      T. Ward steals the ball from X. Graham
+1st Half   8:18 | LAK 27-32 RIV    | RIV  +2  C. Sanders scores in the paint (assist: T. Ward)
+1st Half   7:59 | LAK 27-32 RIV    | LAK      C. Hamilton misses a deep three
+1st Half   7:59 | LAK 27-32 RIV    | RIV      C. Sanders pulls down the defensive rebound
+1st Half   7:59 | LAK 27-32 RIV    |          Official timeout
+1st Half   7:59 | LAK 27-32 RIV    | RIV      RIV substitution: T. Okafor in for A. Porter
+1st Half   7:59 | LAK 27-32 RIV    | RIV      RIV substitution: M. Hayes in for Q. Porter
+1st Half   7:59 | LAK 27-32 RIV    | RIV      RIV substitution: D. Reed in for I. Brooks
+1st Half   7:59 | LAK 27-32 RIV    | LAK      LAK substitution: J. Okafor in for E. Hayes
+1st Half   7:59 | LAK 27-32 RIV    | LAK      LAK substitution: B. Lindqvist in for X. Graham
+1st Half   7:59 | LAK 27-32 RIV    | LAK      LAK substitution: T. Boyd in for C. Hamilton
+1st Half   7:47 | LAK 27-32 RIV    | RIV      T. Ward misses a deep three
+1st Half   7:47 | LAK 27-32 RIV    | LAK      T. Boyd pulls down the defensive rebound
+1st Half   7:32 | LAK 27-32 RIV    | LAK      N. Price misses a three-pointer
+1st Half   7:32 | LAK 27-32 RIV    | LAK      M. Holloway grabs the offensive rebound
+1st Half   7:29 | LAK 29-32 RIV    | LAK  +2  M. Holloway tips it back in
+1st Half   7:12 | LAK 29-32 RIV    | RIV      T. Okafor misses a three-pointer
+1st Half   7:12 | LAK 29-32 RIV    | LAK      N. Price pulls down the defensive rebound
+1st Half   6:51 | LAK 29-32 RIV    | RIV      C. Sanders commits a shooting foul on T. Boyd (1 PF)
+1st Half   6:51 | LAK 29-32 RIV    | RIV      RIV substitution: I. Brooks in for C. Sanders
+1st Half   6:51 | LAK 29-32 RIV    | LAK      LAK substitution: C. Hamilton in for M. Holloway
+1st Half   6:51 | LAK 29-32 RIV    | LAK      LAK substitution: X. Graham in for N. Price
+1st Half   6:51 | LAK 30-32 RIV    | LAK  +1  T. Boyd makes free throw 1 of 2
+1st Half   6:51 | LAK 31-32 RIV    | LAK  +1  T. Boyd makes free throw 2 of 2
+1st Half   6:32 | LAK 31-32 RIV    | RIV      T. Okafor misses a three-pointer
+1st Half   6:32 | LAK 31-32 RIV    | LAK      T. Boyd pulls down the defensive rebound
+1st Half   6:08 | LAK 31-32 RIV    | LAK      T. Boyd can't finish at the rim
+1st Half   6:08 | LAK 31-32 RIV    | RIV      I. Brooks pulls down the defensive rebound
+1st Half   5:48 | LAK 31-34 RIV    | RIV  +2  I. Brooks scores in the paint (assist: D. Reed)
+1st Half   5:21 | LAK 34-34 RIV    | LAK  +3  T. Boyd drills a three-pointer
+1st Half   5:11 | LAK 34-34 RIV    | LAK      T. Boyd commits a personal foul on T. Ward (2 PF)
+1st Half   5:11 | LAK 34-34 RIV    | RIV      RIV substitution: C. Sanders in for I. Brooks
+1st Half   5:11 | LAK 34-34 RIV    | LAK      LAK substitution: E. Hayes in for X. Graham
+1st Half   5:11 | LAK 34-34 RIV    | LAK      LAK substitution: N. Price in for C. Hamilton
+1st Half   4:56 | LAK 34-36 RIV    | RIV  +2  T. Ward finishes with a two-handed slam
+1st Half   4:32 | LAK 34-36 RIV    | LAK      E. Hayes has his layup blocked by C. Sanders
+1st Half   4:32 | LAK 34-36 RIV    | RIV      C. Sanders pulls down the defensive rebound
+1st Half   4:17 | LAK 34-36 RIV    | LAK      N. Price commits a shooting foul on T. Ward (1 PF)
+1st Half   4:17 | LAK 34-37 RIV    | RIV  +1  T. Ward makes free throw 1 of 2
+1st Half   4:17 | LAK 34-38 RIV    | RIV  +1  T. Ward makes free throw 2 of 2
+1st Half   4:09 | LAK 34-38 RIV    | RIV      C. Sanders commits a personal foul on J. Okafor (2 PF)
+1st Half   4:09 | LAK 34-38 RIV    | RIV      RIV substitution: A. Porter in for T. Ward
+1st Half   4:09 | LAK 34-38 RIV    | LAK      J. Okafor misses free throw 1 of 2
+1st Half   4:09 | LAK 34-38 RIV    | LAK      J. Okafor misses free throw 2 of 2
+1st Half   4:09 | LAK 34-38 RIV    | RIV      T. Okafor pulls down the defensive rebound
+1st Half   3:52 | LAK 34-38 RIV    | LAK      B. Lindqvist commits a personal foul on T. Okafor (1 PF)
+1st Half   3:52 | LAK 34-38 RIV    | RIV      T. Okafor misses the front end of the one-and-one
+1st Half   3:52 | LAK 34-38 RIV    | LAK      J. Okafor pulls down the defensive rebound
+1st Half   3:52 | LAK 34-38 RIV    |          Official timeout
+1st Half   3:38 | LAK 36-38 RIV    | LAK  +2  B. Lindqvist finishes at the rim (assist: N. Price)
+1st Half   3:20 | LAK 36-40 RIV    | RIV  +2  D. Reed scores in the paint (assist: T. Okafor)
+1st Half   3:06 | LAK 36-40 RIV    | LAK      B. Lindqvist has his jumper blocked by A. Porter
+1st Half   3:06 | LAK 36-40 RIV    | RIV      C. Sanders pulls down the defensive rebound
+1st Half   2:53 | LAK 36-40 RIV    | RIV      T. Okafor is called for traveling
+1st Half   2:53 | LAK 36-40 RIV    | RIV      RIV substitution: I. Brooks in for D. Reed
+1st Half   2:53 | LAK 36-40 RIV    | LAK      LAK substitution: M. Holloway in for N. Price
+1st Half   2:41 | LAK 36-40 RIV    | LAK      E. Hayes misses a jumper
+1st Half   2:41 | LAK 36-40 RIV    | RIV      C. Sanders pulls down the defensive rebound
+1st Half   2:32 | LAK 36-40 RIV    | LAK      M. Holloway commits a personal foul on I. Brooks (1 PF)
+1st Half   2:32 | LAK 36-41 RIV    | RIV  +1  I. Brooks makes the front end of the one-and-one
+1st Half   2:32 | LAK 36-42 RIV    | RIV  +1  I. Brooks makes the back end of the one-and-one
+1st Half   2:21 | LAK 36-42 RIV    | LAK      E. Hayes misses a three from the corner
+1st Half   2:21 | LAK 36-42 RIV    | RIV      I. Brooks pulls down the defensive rebound
+1st Half   1:55 | LAK 36-44 RIV    | RIV  +2  C. Sanders banks in a short hook
+1st Half   1:29 | LAK 38-44 RIV    | LAK  +2  J. Okafor scores in the paint (assist: E. Hayes)
+1st Half   1:16 | LAK 38-44 RIV    | RIV      B. Lindqvist steals the ball from A. Porter
+1st Half   0:59 | LAK 38-44 RIV    | RIV      C. Sanders commits a shooting foul on B. Lindqvist (3 PF)
+1st Half   0:59 | LAK 38-44 RIV    | RIV      RIV substitution: D. Reed in for C. Sanders
+1st Half   0:59 | LAK 38-44 RIV    | RIV      RIV substitution: T. Ward in for M. Hayes
+1st Half   0:59 | LAK 38-44 RIV    | RIV      RIV substitution: D. Hayes in for T. Okafor
+1st Half   0:59 | LAK 38-44 RIV    | LAK      LAK substitution: N. Price in for T. Boyd
+1st Half   0:59 | LAK 39-44 RIV    | LAK  +1  B. Lindqvist makes free throw 1 of 2
+1st Half   0:59 | LAK 40-44 RIV    | LAK  +1  B. Lindqvist makes free throw 2 of 2
+1st Half   0:47 | LAK 40-44 RIV    | RIV      D. Reed throws the ball away
+1st Half   0:32 | LAK 40-44 RIV    | RIV      D. Reed commits a personal foul on J. Okafor (3 PF)
+1st Half   0:32 | LAK 40-44 RIV    | RIV      RIV substitution: Q. Porter in for D. Reed
+1st Half   0:32 | LAK 41-44 RIV    | LAK  +1  J. Okafor makes free throw 1 of 2
+1st Half   0:32 | LAK 42-44 RIV    | LAK  +1  J. Okafor makes free throw 2 of 2
+1st Half   0:18 | LAK 42-46 RIV    | RIV  +2  A. Porter hits an elbow jumper (assist: Q. Porter)
+1st Half   0:02 | LAK 42-46 RIV    | LAK      M. Holloway misses a jumper
+1st Half   0:02 | LAK 42-46 RIV    | RIV      A. Porter pulls down the defensive rebound
+1st Half   0:01 | LAK 42-48 RIV    | RIV  +2  T. Ward banks in a short hook (assist: Q. Porter)
+1st Half   0:00 | LAK 42-48 RIV    | LAK      M. Holloway misses a deep three
+1st Half   0:00 | LAK 42-48 RIV    |          End of 1st Half
+2nd Half  20:00 | LAK 42-48 RIV    |          Start of 2nd Half
+2nd Half  20:00 | LAK 42-48 RIV    | RIV      RIV substitution: T. Okafor in for Q. Porter
+2nd Half  20:00 | LAK 42-48 RIV    | RIV      RIV substitution: M. Hayes in for D. Hayes
+2nd Half  20:00 | LAK 42-48 RIV    | RIV      RIV substitution: D. Reed in for A. Porter
+2nd Half  20:00 | LAK 42-48 RIV    | RIV      RIV substitution: C. Sanders in for T. Ward
+2nd Half  20:00 | LAK 42-48 RIV    | LAK      LAK substitution: T. Boyd in for M. Holloway
+2nd Half  19:44 | LAK 42-48 RIV    | RIV      M. Hayes misses a jumper
+2nd Half  19:44 | LAK 42-48 RIV    | LAK      T. Boyd pulls down the defensive rebound
+2nd Half  19:33 | LAK 42-48 RIV    | LAK      N. Price misses a deep three
+2nd Half  19:33 | LAK 42-48 RIV    | RIV      D. Reed pulls down the defensive rebound
+2nd Half  19:24 | LAK 42-48 RIV    | RIV      I. Brooks misses a three-pointer
+2nd Half  19:24 | LAK 42-48 RIV    | LAK      N. Price pulls down the defensive rebound
+2nd Half  19:11 | LAK 42-48 RIV    | LAK      D. Reed steals the ball from N. Price
+2nd Half  19:02 | LAK 42-48 RIV    | LAK      N. Price commits a personal foul on D. Reed (2 PF)
+2nd Half  18:52 | LAK 42-48 RIV    | RIV      T. Okafor misses a deep three
+2nd Half  18:52 | LAK 42-48 RIV    | LAK      E. Hayes pulls down the defensive rebound
+2nd Half  18:30 | LAK 42-48 RIV    | LAK      N. Price misses a three-pointer
+2nd Half  18:30 | LAK 42-48 RIV    | RIV      D. Reed pulls down the defensive rebound
+2nd Half  18:09 | LAK 42-48 RIV    | RIV      I. Brooks can't finish at the rim
+2nd Half  18:09 | LAK 42-48 RIV    | LAK      N. Price pulls down the defensive rebound
+2nd Half  17:46 | LAK 45-48 RIV    | LAK  +3  B. Lindqvist buries a corner three
+2nd Half  17:34 | LAK 45-48 RIV    | RIV      T. Okafor misses a three from the corner
+2nd Half  17:34 | LAK 45-48 RIV    | LAK      J. Okafor pulls down the defensive rebound
+2nd Half  17:14 | LAK 48-48 RIV    | LAK  +3  T. Boyd hits a three from the wing (assist: N. Price)
+2nd Half  16:56 | LAK 48-48 RIV    | LAK      E. Hayes commits a personal foul on I. Brooks (2 PF)
+2nd Half  16:51 | LAK 48-48 RIV    | RIV      I. Brooks throws the ball away
+2nd Half  16:36 | LAK 48-48 RIV    | LAK      E. Hayes misses a contested shot in the paint
+2nd Half  16:36 | LAK 48-48 RIV    | LAK      T. Boyd grabs the offensive rebound
+2nd Half  16:34 | LAK 48-48 RIV    | LAK      T. Okafor steals the ball from E. Hayes
+2nd Half  16:23 | LAK 48-50 RIV    | RIV  +2  T. Okafor finishes at the rim
+2nd Half  16:12 | LAK 51-50 RIV    | LAK  +3  N. Price knocks down a three from the top of the key (assist: J. Okafor)
+2nd Half  15:45 | LAK 51-50 RIV    | LAK      E. Hayes commits a personal foul on M. Hayes (3 PF)
+2nd Half  15:45 | LAK 51-50 RIV    | RIV      RIV substitution: T. Ward in for I. Brooks
+2nd Half  15:29 | LAK 51-50 RIV    | RIV      T. Okafor clanks a mid-range jumper
+2nd Half  15:29 | LAK 51-50 RIV    | LAK      E. Hayes pulls down the defensive rebound
+2nd Half  15:29 | LAK 51-50 RIV    |          Official timeout
+2nd Half  15:13 | LAK 53-50 RIV    | LAK  +2  J. Okafor throws down a dunk (assist: N. Price)
+2nd Half  15:13 | LAK 53-50 RIV    | RIV      C. Sanders commits a shooting foul on J. Okafor (4 PF)
+2nd Half  15:13 | LAK 53-50 RIV    | RIV      RIV substitution: I. Brooks in for C. Sanders
+2nd Half  15:13 | LAK 53-50 RIV    | LAK      J. Okafor misses the and-one free throw
+2nd Half  15:13 | LAK 53-50 RIV    | RIV      D. Reed pulls down the defensive rebound
+2nd Half  15:08 | LAK 53-50 RIV    | LAK      J. Okafor commits a personal foul on T. Ward (3 PF)
+2nd Half  15:01 | LAK 53-50 RIV    | RIV      T. Ward misses a three from the corner
+2nd Half  15:01 | LAK 53-50 RIV    | RIV      M. Hayes grabs the offensive rebound
+2nd Half  14:51 | LAK 53-50 RIV    | RIV      M. Hayes misses a three-pointer
+2nd Half  14:51 | LAK 53-50 RIV    | RIV      T. Okafor grabs the offensive rebound
+2nd Half  14:49 | LAK 53-50 RIV    | LAK      N. Price commits a shooting foul on T. Okafor (3 PF)
+2nd Half  14:49 | LAK 53-51 RIV    | RIV  +1  T. Okafor makes free throw 1 of 2
+2nd Half  14:49 | LAK 53-52 RIV    | RIV  +1  T. Okafor makes free throw 2 of 2
+2nd Half  14:32 | LAK 53-52 RIV    | LAK      E. Hayes clanks a mid-range jumper
+2nd Half  14:32 | LAK 53-52 RIV    | LAK      E. Hayes grabs the offensive rebound
+2nd Half  14:22 | LAK 55-52 RIV    | LAK  +2  E. Hayes puts back the offensive board
+2nd Half  14:05 | LAK 55-52 RIV    | RIV      M. Hayes misses a three-pointer
+2nd Half  14:05 | LAK 55-52 RIV    | LAK      N. Price pulls down the defensive rebound
+2nd Half  13:42 | LAK 58-52 RIV    | LAK  +3  B. Lindqvist knocks down a three from the top of the key
+2nd Half  13:17 | LAK 58-52 RIV    | RIV      T. Okafor misses a pull-up jumper
+2nd Half  13:17 | LAK 58-52 RIV    | LAK      T. Boyd pulls down the defensive rebound
+2nd Half  13:09 | LAK 58-52 RIV    | LAK      D. Reed steals the ball from N. Price
+2nd Half  12:47 | LAK 58-54 RIV    | RIV  +2  M. Hayes finishes at the rim (assist: T. Okafor)
+2nd Half  12:31 | LAK 61-54 RIV    | LAK  +3  B. Lindqvist drills a three-pointer (assist: N. Price)
+2nd Half  12:07 | LAK 61-54 RIV    | RIV      T. Ward misses a three-pointer
+2nd Half  12:07 | LAK 61-54 RIV    | RIV      D. Reed grabs the offensive rebound
+2nd Half  12:04 | LAK 61-56 RIV    | RIV  +2  D. Reed puts back the offensive board
+2nd Half  11:49 | LAK 61-56 RIV    | RIV      D. Reed commits a shooting foul on E. Hayes (4 PF)
+2nd Half  11:49 | LAK 61-56 RIV    | RIV      RIV substitution: A. Porter in for D. Reed
+2nd Half  11:49 | LAK 61-56 RIV    | RIV      RIV substitution: D. Hayes in for M. Hayes
+2nd Half  11:49 | LAK 61-56 RIV    | LAK      LAK substitution: M. Holloway in for T. Boyd
+2nd Half  11:49 | LAK 62-56 RIV    | LAK  +1  E. Hayes makes free throw 1 of 2
+2nd Half  11:49 | LAK 63-56 RIV    | LAK  +1  E. Hayes makes free throw 2 of 2
+2nd Half  11:49 | LAK 63-56 RIV    |          Official timeout
+2nd Half  11:45 | LAK 63-56 RIV    | LAK      E. Hayes commits a personal foul on T. Ward (4 PF)
+2nd Half  11:45 | LAK 63-56 RIV    | LAK      LAK substitution: C. Hamilton in for E. Hayes
+2nd Half  11:23 | LAK 63-58 RIV    | RIV  +2  I. Brooks knocks down a mid-range jumper (assist: T. Ward)
+2nd Half  11:17 | LAK 63-58 RIV    | RIV      T. Ward commits a personal foul on N. Price (1 PF)
+2nd Half  11:08 | LAK 63-58 RIV    | LAK      B. Lindqvist throws the ball away
+2nd Half  11:08 | LAK 63-58 RIV    | LAK      LAK substitution: T. Boyd in for B. Lindqvist
+2nd Half  10:46 | LAK 63-58 RIV    | RIV      D. Hayes has his layup blocked by N. Price
+2nd Half  10:46 | LAK 63-58 RIV    | LAK      M. Holloway pulls down the defensive rebound
+2nd Half  10:31 | LAK 65-58 RIV    | LAK  +2  T. Boyd banks in a short hook
+2nd Half  10:23 | LAK 65-58 RIV    | RIV      D. Hayes misses a deep three
+2nd Half  10:23 | LAK 65-58 RIV    | LAK      T. Boyd pulls down the defensive rebound
+2nd Half  10:10 | LAK 67-58 RIV    | LAK  +2  N. Price rises for an alley-oop dunk (assist: C. Hamilton)
+2nd Half  10:10 | LAK 67-58 RIV    | RIV      T. Okafor commits a shooting foul on N. Price (2 PF)
+2nd Half  10:10 | LAK 67-58 RIV    | RIV      RIV substitution: M. Hayes in for T. Okafor
+2nd Half  10:10 | LAK 67-58 RIV    | RIV      RIV substitution: Q. Porter in for I. Brooks
+2nd Half  10:10 | LAK 67-58 RIV    | RIV      RIV substitution: T. Foster in for T. Ward
+2nd Half  10:10 | LAK 67-58 RIV    | LAK      LAK substitution: B. Lindqvist in for C. Hamilton
+2nd Half  10:10 | LAK 68-58 RIV    | LAK  +1  N. Price makes the and-one free throw
+2nd Half   9:52 | LAK 68-58 RIV    | RIV      M. Hayes misses a three-pointer
+2nd Half   9:52 | LAK 68-58 RIV    | LAK      M. Holloway pulls down the defensive rebound
+2nd Half   9:46 | LAK 68-58 RIV    | LAK      J. Okafor throws the ball away
+2nd Half   9:46 | LAK 68-58 RIV    | RIV      RIV substitution: C. Sanders in for D. Hayes
+2nd Half   9:46 | LAK 68-58 RIV    | RIV      RIV substitution: D. Reed in for T. Foster
+2nd Half   9:46 | LAK 68-58 RIV    | LAK      LAK substitution: E. Hayes in for J. Okafor
+2nd Half   9:36 | LAK 68-61 RIV    | RIV  +3  A. Porter hits a three from the wing (assist: Q. Porter)
+2nd Half   9:18 | LAK 68-61 RIV    | LAK      M. Holloway misses a jumper
+2nd Half   9:18 | LAK 68-61 RIV    | RIV      D. Reed pulls down the defensive rebound
+2nd Half   9:07 | LAK 68-61 RIV    | RIV      M. Hayes misses a layup
+2nd Half   9:07 | LAK 68-61 RIV    | LAK      M. Holloway pulls down the defensive rebound
+2nd Half   8:43 | LAK 71-61 RIV    | LAK  +3  N. Price drills a three-pointer (assist: B. Lindqvist)
+2nd Half   8:31 | LAK 71-61 RIV    | LAK      T. Boyd commits a personal foul on M. Hayes (3 PF)
+2nd Half   8:31 | LAK 71-61 RIV    | RIV      RIV substitution: T. Ward in for Q. Porter
+2nd Half   8:31 | LAK 71-61 RIV    | RIV      RIV substitution: I. Brooks in for A. Porter
+2nd Half   8:31 | LAK 71-61 RIV    | LAK      LAK substitution: J. Okafor in for T. Boyd
+2nd Half   8:31 | LAK 71-61 RIV    | LAK      LAK substitution: C. Hamilton in for M. Holloway
+2nd Half   8:31 | LAK 71-62 RIV    | RIV  +1  M. Hayes makes the front end of the one-and-one
+2nd Half   8:31 | LAK 71-63 RIV    | RIV  +1  M. Hayes makes the back end of the one-and-one
+2nd Half   8:24 | LAK 71-63 RIV    | LAK      I. Brooks steals the ball from J. Okafor
+2nd Half   8:07 | LAK 71-65 RIV    | RIV  +2  I. Brooks rises for an alley-oop dunk (assist: M. Hayes)
+2nd Half   7:48 | LAK 71-65 RIV    | LAK      N. Price misses a three-pointer
+2nd Half   7:48 | LAK 71-65 RIV    | RIV      D. Reed pulls down the defensive rebound
+2nd Half   7:48 | LAK 71-65 RIV    |          Official timeout
+2nd Half   7:48 | LAK 71-65 RIV    | RIV      RIV substitution: T. Okafor in for M. Hayes
+2nd Half   7:48 | LAK 71-65 RIV    | LAK      LAK substitution: X. Graham in for N. Price
+2nd Half   7:22 | LAK 71-68 RIV    | RIV  +3  T. Okafor knocks down a three from the top of the key
+2nd Half   7:13 | LAK 71-68 RIV    | RIV      I. Brooks commits a personal foul on B. Lindqvist (2 PF)
+2nd Half   7:13 | LAK 71-68 RIV    | RIV      RIV substitution: A. Porter in for D. Reed
+2nd Half   7:13 | LAK 71-68 RIV    | LAK      LAK substitution: M. Holloway in for C. Hamilton
+2nd Half   7:03 | LAK 71-68 RIV    | LAK      J. Okafor has his three-point attempt blocked by I. Brooks
+2nd Half   7:03 | LAK 71-68 RIV    | RIV      I. Brooks pulls down the defensive rebound
+2nd Half   6:56 | LAK 71-68 RIV    | LAK      J. Okafor commits a personal foul on T. Okafor (4 PF)
+2nd Half   6:56 | LAK 71-68 RIV    | LAK      LAK substitution: T. Boyd in for B. Lindqvist
+2nd Half   6:56 | LAK 71-69 RIV    | RIV  +1  T. Okafor makes the front end of the one-and-one
+2nd Half   6:56 | LAK 71-70 RIV    | RIV  +1  T. Okafor makes the back end of the one-and-one
+2nd Half   6:33 | LAK 73-70 RIV    | LAK  +2  X. Graham scores in the paint
+2nd Half   6:10 | LAK 73-70 RIV    | RIV      C. Sanders misses a contested shot in the paint
+2nd Half   6:10 | LAK 73-70 RIV    | LAK      J. Okafor pulls down the defensive rebound
+2nd Half   5:57 | LAK 73-70 RIV    | LAK      T. Ward steals the ball from X. Graham
+2nd Half   5:46 | LAK 73-70 RIV    | LAK      T. Boyd commits a personal foul on A. Porter (4 PF)
+2nd Half   5:46 | LAK 73-70 RIV    | RIV      RIV substitution: M. Hayes in for T. Ward
+2nd Half   5:46 | LAK 73-70 RIV    | RIV      RIV substitution: D. Reed in for I. Brooks
+2nd Half   5:46 | LAK 73-70 RIV    | LAK      LAK substitution: N. Price in for X. Graham
+2nd Half   5:46 | LAK 73-71 RIV    | RIV  +1  A. Porter makes the front end of the one-and-one
+2nd Half   5:46 | LAK 73-71 RIV    | RIV      A. Porter misses the back end of the one-and-one
+2nd Half   5:46 | LAK 73-71 RIV    | LAK      T. Boyd pulls down the defensive rebound
+2nd Half   5:30 | LAK 73-71 RIV    | RIV      A. Porter commits a personal foul on N. Price (2 PF)
+2nd Half   5:30 | LAK 73-71 RIV    | LAK      LAK substitution: B. Lindqvist in for J. Okafor
+2nd Half   5:23 | LAK 73-71 RIV    | LAK      E. Hayes steps out of bounds
+2nd Half   5:12 | LAK 73-71 RIV    | RIV      A. Porter throws the ball away
+2nd Half   4:45 | LAK 75-71 RIV    | LAK  +2  B. Lindqvist makes a driving layup (assist: N. Price)
+2nd Half   4:45 | LAK 75-71 RIV    | RIV      M. Hayes commits a shooting foul on B. Lindqvist (3 PF)
+2nd Half   4:45 | LAK 75-71 RIV    | RIV      RIV substitution: I. Brooks in for A. Porter
+2nd Half   4:45 | LAK 76-71 RIV    | LAK  +1  B. Lindqvist makes the and-one free throw
+2nd Half   4:36 | LAK 76-71 RIV    | RIV      M. Hayes has his layup blocked by E. Hayes
+2nd Half   4:36 | LAK 76-71 RIV    | LAK      T. Boyd pulls down the defensive rebound
+2nd Half   4:27 | LAK 76-71 RIV    | RIV      T. Okafor commits a personal foul on N. Price (3 PF)
+2nd Half   4:27 | LAK 76-71 RIV    | RIV      RIV substitution: T. Ward in for T. Okafor
+2nd Half   4:27 | LAK 76-71 RIV    | LAK      LAK substitution: J. Okafor in for M. Holloway
+2nd Half   4:27 | LAK 77-71 RIV    | LAK  +1  N. Price makes the front end of the one-and-one
+2nd Half   4:27 | LAK 77-71 RIV    | LAK      N. Price misses the back end of the one-and-one
+2nd Half   4:27 | LAK 77-71 RIV    | RIV      I. Brooks pulls down the defensive rebound
+2nd Half   4:06 | LAK 77-73 RIV    | RIV  +2  D. Reed finishes at the rim (assist: C. Sanders)
+2nd Half   3:53 | LAK 79-73 RIV    | LAK  +2  T. Boyd scores in the paint
+2nd Half   3:53 | LAK 79-73 RIV    |          Official timeout
+2nd Half   3:53 | LAK 79-73 RIV    | RIV      RIV substitution: A. Porter in for C. Sanders
+2nd Half   3:49 | LAK 79-73 RIV    | LAK      N. Price commits a personal foul on I. Brooks (4 PF)
+2nd Half   3:49 | LAK 79-73 RIV    | LAK      LAK substitution: M. Holloway in for E. Hayes
+2nd Half   3:49 | LAK 79-74 RIV    | RIV  +1  I. Brooks makes free throw 1 of 2
+2nd Half   3:49 | LAK 79-75 RIV    | RIV  +1  I. Brooks makes free throw 2 of 2
+2nd Half   3:24 | LAK 79-75 RIV    | LAK      M. Holloway has his layup blocked by D. Reed
+2nd Half   3:24 | LAK 79-75 RIV    | RIV      I. Brooks pulls down the defensive rebound
+2nd Half   3:15 | LAK 79-75 RIV    | RIV      I. Brooks steps out of bounds
+2nd Half   3:15 | LAK 79-75 RIV    | RIV      RIV substitution: T. Okafor in for I. Brooks
+2nd Half   3:01 | LAK 79-75 RIV    | LAK      T. Boyd misses a layup
+2nd Half   3:01 | LAK 79-75 RIV    | RIV      A. Porter pulls down the defensive rebound
+2nd Half   2:40 | LAK 79-78 RIV    | RIV  +3  M. Hayes knocks down a three from the top of the key (assist: T. Okafor)
+2nd Half   2:28 | LAK 79-78 RIV    | LAK      M. Hayes steals the ball from N. Price
+2nd Half   2:26 | LAK 79-78 RIV    | LAK      B. Lindqvist commits a personal foul on T. Okafor (2 PF)
+2nd Half   2:26 | LAK 79-78 RIV    | RIV      RIV substitution: C. Sanders in for D. Reed
+2nd Half   2:26 | LAK 79-78 RIV    | LAK      LAK substitution: E. Hayes in for T. Boyd
+2nd Half   2:26 | LAK 79-78 RIV    | RIV      T. Okafor misses free throw 1 of 2
+2nd Half   2:26 | LAK 79-78 RIV    | RIV      T. Okafor misses free throw 2 of 2
+2nd Half   2:26 | LAK 79-78 RIV    | LAK      B. Lindqvist pulls down the defensive rebound
+2nd Half   2:13 | LAK 79-78 RIV    | LAK      N. Price misses a deep three
+2nd Half   2:13 | LAK 79-78 RIV    | RIV      C. Sanders pulls down the defensive rebound
+2nd Half   1:53 | LAK 79-81 RIV    | RIV  +3  A. Porter knocks down a three from the top of the key (assist: T. Ward)
+2nd Half   1:43 | LAK 79-81 RIV    | RIV      T. Okafor commits a personal foul on N. Price (4 PF)
+2nd Half   1:43 | LAK 79-81 RIV    | RIV      RIV substitution: I. Brooks in for T. Ward
+2nd Half   1:43 | LAK 79-81 RIV    | RIV      RIV substitution: D. Reed in for A. Porter
+2nd Half   1:43 | LAK 79-81 RIV    | LAK      LAK substitution: C. Hamilton in for B. Lindqvist
+2nd Half   1:43 | LAK 79-81 RIV    | LAK      LAK substitution: X. Graham in for M. Holloway
+2nd Half   1:43 | LAK 80-81 RIV    | LAK  +1  N. Price makes the front end of the one-and-one
+2nd Half   1:43 | LAK 81-81 RIV    | LAK  +1  N. Price makes the back end of the one-and-one
+2nd Half   1:22 | LAK 81-83 RIV    | RIV  +2  I. Brooks rises for an alley-oop dunk (assist: T. Okafor)
+2nd Half   1:15 | LAK 84-83 RIV    | LAK  +3  N. Price hits a three from the wing (assist: C. Hamilton)
+2nd Half   1:06 | LAK 84-83 RIV    | RIV      M. Hayes misses a contested shot in the paint
+2nd Half   1:06 | LAK 84-83 RIV    | LAK      E. Hayes pulls down the defensive rebound
+2nd Half   0:40 | LAK 84-83 RIV    | LAK      J. Okafor misses a deep three
+2nd Half   0:40 | LAK 84-83 RIV    | RIV      T. Okafor pulls down the defensive rebound
+2nd Half   0:36 | LAK 84-83 RIV    | LAK      X. Graham commits a personal foul on T. Okafor (1 PF)
+2nd Half   0:36 | LAK 84-83 RIV    | RIV      RIV substitution: T. Ward in for M. Hayes
+2nd Half   0:36 | LAK 84-83 RIV    | LAK      LAK substitution: T. Boyd in for J. Okafor
+2nd Half   0:36 | LAK 84-83 RIV    | LAK      LAK substitution: M. Holloway in for N. Price
+2nd Half   0:36 | LAK 84-83 RIV    | RIV      T. Okafor misses free throw 1 of 2
+2nd Half   0:36 | LAK 84-84 RIV    | RIV  +1  T. Okafor makes free throw 2 of 2
+2nd Half   0:06 | LAK 84-84 RIV    | RIV      C. Sanders commits a shooting foul on T. Boyd (5 PF)
+2nd Half   0:06 | LAK 84-84 RIV    | RIV      C. Sanders has fouled out
+2nd Half   0:06 | LAK 84-84 RIV    | RIV      RIV substitution: A. Porter in for C. Sanders
+2nd Half   0:06 | LAK 84-84 RIV    | LAK      LAK substitution: B. Lindqvist in for X. Graham
+2nd Half   0:06 | LAK 85-84 RIV    | LAK  +1  T. Boyd makes free throw 1 of 2
+2nd Half   0:06 | LAK 86-84 RIV    | LAK  +1  T. Boyd makes free throw 2 of 2
+2nd Half   0:00 | LAK 86-87 RIV    | RIV  +3  A. Porter knocks down a three from the top of the key (assist: T. Ward)
+2nd Half   0:00 | LAK 86-87 RIV    |          End of 2nd Half
+2nd Half   0:00 | LAK 86-87 RIV    |          Final: Riverton State Ravens 87, Lakeshore Lions 86
